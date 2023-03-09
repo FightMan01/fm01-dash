@@ -1,1 +1,1 @@
-# fm01-dash
+# FightMan01 bot kezelőfelület
