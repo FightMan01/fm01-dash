@@ -7,7 +7,7 @@ A [Kiadások fülben](https://github.com/FightMan01/fm01-dash/releases) megtalá
 ## 👋 Kezdés
 
 Ahhoz, hogy a kezelőfelületet használd, rendelkezned kell:
-- Egy Windows, Linux Debian-alapú, macOS 10.13 (High Sierra) vagy afölötti, vagy Android 5.0+ operációs rendszerrel
+- Egy Windows, Linux alapú, macOS 10.13 (High Sierra) vagy afölötti, vagy Android 5.0+ operációs rendszerrel
 - Egy Discord fiókkal
 - És kezekkel (opcionális).
 
